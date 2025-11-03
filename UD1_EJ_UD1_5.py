@@ -1,0 +1,6 @@
+print("Introduce el valor del radio para saber la longitud de la circunferencia, el área del circulo y el volúmen de la esfera")
+radio = int(input())
+longitud = 3.14*(radio*2)
+area = radio*(3.14**2)
+volumen = (4/3*3.14*(radio**3))
+print("La longitud es de ",longitud,", el area es de ",area,", y el volumen es de ",volumen,)
