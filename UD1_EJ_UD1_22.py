@@ -17,4 +17,3 @@ while contador>0:
             contador-=1
 
 print(f"Has introducido {positivo} números positivos y {negativo} números negativos")
-
